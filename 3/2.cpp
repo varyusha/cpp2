@@ -21,7 +21,7 @@ int main() {
         }
     }
     
-    cout << "el o main: ";
+    cout << "el on main: ";
     for (int i = 0; i < rows; ++i) {
         cout << array[i][i] << " ";
     }
